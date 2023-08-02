@@ -20,6 +20,6 @@
   } else {
     echo '<script>
     alert("Sorry, Failed While Sending Mail!")
-
+    window.location.replace("index.html");
     </script>';  }
 ?>

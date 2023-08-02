@@ -759,7 +759,7 @@ section {
 }
 
 .about .content ul li {
-  display: flex;
+  display:inline-flex;
   align-items: flex-start;
   margin-bottom: 35px;
 }
